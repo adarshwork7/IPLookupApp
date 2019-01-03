@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="org" label="Org" language="en" table="x_167306_iplookup_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>org</element>
+            <help/>
+            <hint/>
+            <label>Org</label>
+            <language>en</language>
+            <name>x_167306_iplookup_ipaddressinfo</name>
+            <plural>Orgs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-03 11:56:57</sys_created_on>
+            <sys_id>5fcc2895db7623007db8e04a489619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Org</sys_name>
+            <sys_package display_value="IPLookup" source="x_167306_iplookup">66c76674db3223007db8e04a489619b1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">66c76674db3223007db8e04a489619b1</sys_scope>
+            <sys_update_name>sys_documentation_x_167306_iplookup_ipaddressinfo_org_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-03 11:56:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
